@@ -15,3 +15,7 @@ body {
   background-size: cover;
   background-position: center;
 }
+#app {
+  min-width: 800px;
+  max-width: 100%;
+}

@@ -53,7 +53,7 @@ export default {
         this.openChangeModal = false;
         return;
       }
-      this.currentTodo.title = this.valueModalInput;
+      this.currentTodo.title = this.valueModalInput.trim();
       this.openChangeModal = false;
       this.valueModalInput = "";
     },
