@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  background-image: url("https://s1.1zoom.ru/big0/78/Sky_Mountains_Georgia_Chkhutnieri_Pass_Upper_580861_1280x853.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
