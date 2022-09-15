@@ -1,4 +1,4 @@
- ## [(https://vagif-cmyk.github.io/vue-todo/dist/index.html)]
+ ## [Посмотреть можно здесь](https://vagif-cmyk.github.io/vue-todo/dist/index.html)
  
  ## todo приложение.
 
